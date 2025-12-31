@@ -1,0 +1,22 @@
+{
+  "name": "Axioma Terminal 5x5",
+  "label": "AXIOMA",
+  "direction": "ltr",
+  "type": "characters",
+  "rows": [
+    [
+      { "main": "L", "up": "LJ" },
+      { "main": "R" },
+      { "main": "O", "up": "⚙️" },
+      { "main": "M" },
+      { "main": "N", "up": "NJ" }
+    ],
+    [
+      { "main": "G" },
+      { "main": "K", "up": "Q" },
+      { "main": "E", "up": "📋" },
+      { "main": "T" },
+      { "main": "D", "up": "Đ", "down": "DŽ" }
+    ]
+  ]
+}
