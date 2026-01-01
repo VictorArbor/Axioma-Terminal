@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard name="Axioma 5x5">
+    <row>
+        <key label="L" swipeUp="LJ" />
+        <key label="R" />
+        <key label="O" swipeUp="⚙️" /> <key label="M" />
+        <key label="N" swipeUp="NJ" />
+    </row>
+    <row>
+        <key label="G" />
+        <key label="K" swipeUp="Q" swipeDown="QU" />
+        <key label="E" swipeUp="📋" /> <key label="T" />
+        <key label="D" swipeUp="Đ" swipeDown="DŽ" />
+    </row>
+    <row>
+        <key label="H" />
+        <key label="C" swipeUp="Ć" swipeDown="Č" />
+        <key label="A" swipeDown="⌨️" /> <key label="P" />
+        <key label="F" />
+    </row>
+    <row>
+        <key label="Z" swipeUp="Ž" />
+        <key label="S" swipeUp="Š" />
+        <key label="U" /> <key label="B" />
+        <key label="V" />
+    </row>
+    <row>
+        <key label="X" swipeUp="SHIFT" swipeDown="CAPS" />
+        <key label="Y" swipeUp="." swipeDown="," swipeLeft="?" swipeRight="!" />
+        <key label="I" swipeUp="IJE" /> <key label="J" swipeUp="JE" />
+        <key label="W" swipeDown="ENTER" />
+    </row>
+</keyboard>
